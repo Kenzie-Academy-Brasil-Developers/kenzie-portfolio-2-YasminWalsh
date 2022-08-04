@@ -34,10 +34,10 @@ export const Contacts = () => {
                 </Text>{" "}
                 together?
               </Text>
-              <Text color="grey2" type="body1">
+              {/* <Text color="grey2" type="body1">
                 Advertise your brand organically within Dribbble’s design
                 inspiration feed.
-              </Text>
+              </Text> */}
             </ContactSectionText>
           </motion.div>
           <ContactsCards>
